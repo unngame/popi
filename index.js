@@ -6,7 +6,7 @@ menuToggle.addEventListener('click', () => {
     menuList.classList.toggle('menu__list--visible');
     menu.classList.toggle('nav__menu--expanded');
     menu.style.width = menu.style.width === '50%' ? '15%' : '50%';
-    menu.style.height = menu.style.height === '30rem' ? '30rem' : '30rem';
+    menu.style.height = menu.style.height === '40rem' ? '40rem' : '40rem';
     menu.style.transition = 'width 0.3s ease, height 0.3s ease';
     menuList.style.display = menuList.style.display === 'flex' ? 'none' : 'flex';
 });

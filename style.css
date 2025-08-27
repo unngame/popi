@@ -26,7 +26,7 @@ header {
     top: 25%;
     right: 0;
     width: 15%;
-    height: 30rem;
+    height: 40rem;
     background-color: rgba(80, 83, 87, 0.85);
 }
 .menu__dropDown {
@@ -54,22 +54,6 @@ nav .item__url {
     padding: 0.5rem 1rem;
     color: #fff;
     text-decoration: none;
-}
-main {
-    max-width: 800px;
-    margin: 30px auto;
-    background: #fff;
-    padding: 20px;
-    border-radius: 8px;
-}
-img {
-    max-width: 200px;
-    display: block;
-    margin: 0 auto 20px auto;
-    border-radius: 8px;
-}
-h2 {
-    color: #2c3e50;
 }
 footer {
     text-align: center;
